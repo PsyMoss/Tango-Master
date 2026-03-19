@@ -1,0 +1,8 @@
+## Interface: 20504
+## Title: Rogue Tick Sound
+## Notes: Bip every 2 sec in combat for energy tick
+## Author: You
+## SavedVariables: UF_Settings
+## SavedVariables: EnergyTickSettings
+RogueTick.lua
+UnitFrames.lua
